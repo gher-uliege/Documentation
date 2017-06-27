@@ -16,9 +16,9 @@ where `Python.wiki` is a file whose content is obtained as a copy/paste of the m
 
 ## Other contents
 
-**Projects:** should be listed at http://labos.ulg.ac.be/gher/projects/ with a link to the project web page.
-**Personal pages:** links at http://labos.ulg.ac.be/gher/people/.
-**Software tools:** links to [github](https://github.com/gher-ulg) from http://labos.ulg.ac.be/gher/software-2/.
+**Projects:** should be listed at http://labos.ulg.ac.be/gher/projects/ with a link to the project web page.    
+**Personal pages:** links at http://labos.ulg.ac.be/gher/people/.    
+**Software tools:** links to [github](https://github.com/gher-ulg) from http://labos.ulg.ac.be/gher/software-2/.    
 
 
 
