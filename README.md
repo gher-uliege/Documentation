@@ -20,6 +20,8 @@ where `Python.wiki` is a file whose content is obtained as a copy/paste of the m
 **Personal pages:** links at http://labos.ulg.ac.be/gher/people/.    
 **Software tools:** links to [github](https://github.com/gher-ulg) from http://labos.ulg.ac.be/gher/software-2/.    
 
+## Table of contents
 
+Use [gh-md-toc](https://github.com/ekalinin/github-markdown-toc) on the main markdown file to generate the table of contents (not dynamically). Then copy the result in the sidebar (right-hand side).
 
 
